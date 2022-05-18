@@ -52,7 +52,7 @@
 
 **del**
 
-> deleta os arquivos dentro de uma pasta
+> deletar os arquivos dentro de uma pasta
 
 
 
@@ -60,4 +60,4 @@
 
 **rmdir**
 
-> remove um repositório
+> remover  um repositório
