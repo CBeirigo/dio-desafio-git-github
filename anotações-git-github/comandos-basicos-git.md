@@ -1,5 +1,7 @@
 # Comandos Git básicos
 
+*comandos aceitos em sistema operacional Windows
+
 **dir**
 
 > listar arquivos e diretórios contidos na pasta atual
@@ -18,7 +20,7 @@
 
 
 
-**cls**
+**clear**
 
 > limpar a tela do terminal
 
