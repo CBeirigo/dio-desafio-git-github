@@ -8,9 +8,13 @@
 
 
 
+
+
 **cd**
 
 > navegar entre pastas
+
+
 
 
 
@@ -20,9 +24,13 @@
 
 
 
+
+
 **clear**
 
 > limpar a tela do terminal
+
+
 
 
 
@@ -32,15 +40,21 @@
 
 
 
+
+
 **mkdir**
 
 > criar uma pasta
 
 
 
+
+
 **del**
 
 > deleta os arquivos dentro de uma pasta
+
+
 
 
 
