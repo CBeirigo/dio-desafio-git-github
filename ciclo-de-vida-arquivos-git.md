@@ -8,7 +8,7 @@
   
   inicializa um novo repositório do Git.
 
-
+<br>
 
 > **Arquivo unmodified e modified**
 > 
@@ -18,19 +18,19 @@
 > 
 > arquivo recém criado
 
-
+<br>
 
 - git add
   
   move o arquivo untrecked ou modified direto para o staged, dessa forma ele está se preparando para fazer parte de um commit.
 
-
+<br>
 
 - git commit
   
   cria um snapshot (foto) do código naquele momento. Depois os arquivos retornam para unmodified aguardando um novo ciclo de etapas.
 
-
+<br>
 
 - git status
   
