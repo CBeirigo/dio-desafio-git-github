@@ -51,3 +51,8 @@
 **rmdir**
 
 > remover um repositório
+
+  <br>
+  
+ ###### < Conteúdo baseado no curso Introdução ao Git e ao GitHub da plataforma Digital Innovation One />
+
