@@ -1,6 +1,6 @@
-# GIT
+# **Git**
 
-###### Guia de comandos básicos do Git
+### Guia de comandos básicos do Git
 
 *comandos aceitos em sistema operacional Windows
 
