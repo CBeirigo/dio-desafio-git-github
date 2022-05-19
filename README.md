@@ -24,7 +24,7 @@
 
 <br>
 
-**cls**
+**cls/clear**
 
 > limpar a tela do terminal
 
