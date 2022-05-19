@@ -40,7 +40,15 @@
  
  - git push
 
-   empurra o commit com as novas alterações do repositório local para o repositório remoto
+   empurra o commit com as novas alterações do repositório local para o repositório remoto.
+   
+ <br>
+ 
+ - git pull
+  
+   busca e baixa do repositório remoto as últimas alterações de arquivos para o repositório local.
+   
+ <br>
   
  ###### < Conteúdo baseado no curso Introdução ao Git e ao GitHub da plataforma Digital Innovation One />
 
