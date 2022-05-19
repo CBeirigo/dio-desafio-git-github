@@ -37,6 +37,10 @@
   permite vizualizar qual o estado atual do arquivo, em etapa do ciclo ele se encontra.
   
  <br>
+ 
+ - git push
+
+   empurra o commit com as novas alterações do repositório local para o repositório remoto
   
  ###### < Conteúdo baseado no curso Introdução ao Git e ao GitHub da plataforma Digital Innovation One />
 
