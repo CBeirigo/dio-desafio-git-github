@@ -1,4 +1,4 @@
-# Comandos Git básicos
+# Comandos básicos no GIT
 
 *comandos aceitos em sistema operacional Windows
 
